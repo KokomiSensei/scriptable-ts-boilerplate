@@ -14,6 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
+> [!TIP]
+> When using VS Code, set `js/ts.tsdk.path` to `"./scriptable-api/node_modules/typescript/lib"` in `.vscode/settings.json` to avoid deprecation warnings from the built-in TypeScript version.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
